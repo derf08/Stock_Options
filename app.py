@@ -31,4 +31,4 @@ st.title("🚀 1-Week Opportunity Scanner")
 st.subheader("Targeting 40% Gains via High Volatility")
 
 # List of high-growth/volatile tickers to monitor
-WATCHLIST = ['PLTR', 'NVDA', 'TSLA', 'IREN', 'SOC', 'APLD', 'SOXL', 'MARA', 'MST]
+WATCHLIST = ['PLTR', 'NVDA', 'TSLA', 'IREN', 'SOC', 'APLD', 'SOXL', 'MARA', 'MST']
